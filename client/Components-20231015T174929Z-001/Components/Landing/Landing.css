@@ -1,0 +1,35 @@
+
+.landing-page > div {
+    padding: 4px;
+}
+.landing-page {
+    background-color: black;
+    padding : 4px;
+    color: white
+}
+.landing-page input, button {
+    margin: 7px 0;
+    color : black;
+    border-radius: 5px;
+    padding : 5px
+}
+.error {
+    color :aliceblue;
+}
+.landing-page input {
+    background-color: inherit;
+    color : white;
+    width: 95%;
+}
+.posters {
+    width: 70%;
+    height: fit-content;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap:wrap;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: gray;
+}

@@ -1,0 +1,22 @@
+.cart {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 260px;
+    padding: 5px;
+    margin: 5px 2px;
+    color: white;
+    margin: 30px 0px;
+}
+
+.img {
+    height: 200px;
+    width: 200px;    
+}
+
+.title {
+
+}
+.year {
+
+}
